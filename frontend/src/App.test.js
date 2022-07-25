@@ -13,3 +13,5 @@ import React from 'react';
         expect(2 + 2).toBe(4);
       });
     });
+
+    //Testing if we are in the front end and commit if actions works
