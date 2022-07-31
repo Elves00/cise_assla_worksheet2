@@ -13,5 +13,10 @@
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "mern app"
   }
 }
